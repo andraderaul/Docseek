@@ -1,0 +1,1554 @@
+                          RESOLUÇÃO N° 61/2017/CONEPE
+
+   Aprova   as  alterações  na  Departamentalização  e  no  Ementário  do
+   Departamento  de Engenharia de Produção da Cidade  Universitária Prof.
+   José Aloísio de Campos.
+
+   O  CONSELHO  DO  ENSINO,  DA  PESQUISA  E  DA EXTENSÃO da UNIVERSIDADE
+   FEDERAL DE SERGIPE, no uso de suas atribuições legais e estatutárias,
+
+   CONSIDERANDO   que   o   Departamento  de  Engenharia  de  Produção  é
+   responsável   pela  formação  específica  do  curso  de  graduação  em
+   Engenharia de Produção;
+
+   CONSIDERANDO  a  necessidade  de  atualização do projeto pedagógico do
+   curso de graduação em Engenharia de Produção;
+
+   CONSIDERANDO  a necessidade de uma atuação mais flexível e dinâmica do
+   Departamento de Engenharia de Produção;
+
+   CONSIDERANDO  o parecer da relatora, Consª JOSEFA DE LISBOA SANTOS, ao
+   analisar o processo nº 1376/2017-16;
+
+   CONSIDERANDO  ainda,  a decisão unânime deste Conselho, em sua Reunião
+   Ordinária, hoje realizada,
+
+
+   RESOLVE:
+
+   Art.  1º  Aprovar  alterações  na  Departamentalização  e Ementário do
+   Departamento  de  Engenharia de Produção da Cidade Universitária Prof.
+   José  Aloísio  de  Campos,  de  acordo  com  os  Anexos  I  e II desta
+   Resolução.
+
+   Parágrafo  único.  Do  elenco  de  componentes  curriculares  constam:
+   códigos,  créditos,  cargas  horárias  total,  teórica  e  prática,  e
+   pré-requisitos.
+
+   Art.  2º  Aprovar  a  Tabela  Geral de Equivalência do Departamento de
+   Engenharia de Produção, como Anexo III desta Resolução.
+
+   Art.   3º  Esta  Resolução  entra  em  vigor  nesta  data,  revoga  as
+   disposições em contrário, em especial a Resolução nº 163/2009/CONEPE.
+
+   Sala das Sessões, 04 de dezembro de 2017.
+
+
+   REITOR Prof. Dr. Angelo Roberto Antoniolli
+
+   PRESIDENTE
+
+
+   RESOLUÇÃO Nº 61/2017/CONEPE
+
+ANEXO I
+
+   DEPARTAMENTALIZAÇÃO  DO DEPARTAMENTO DE ENGENHARIA DE PRODUÇÃO - CURSO
+   113 - VESPERTINO
+
+   Código
+
+   Componente Curricular
+
+   Tipo
+
+   CR
+
+   CH
+
+   Total
+
+   CH
+
+   Teórica
+
+   CH
+
+   Prática
+
+   Pré-Requisito
+
+   EPROD0061
+
+   Introdução à Engenharia de Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0062
+
+   Metodologia de Pesquisa Aplicada à Engenharia
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0063
+
+   Gestão de Operações Industriais
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0061 (PRO)
+
+   EPROD0064
+
+   Engenharia de Métodos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0063(PRO)
+
+   EPROD0065
+
+   Gestão de Operações em Serviços
+
+   Disciplina
+
+   04
+
+   60
+
+   45
+
+   15
+
+   EPROD0063(PRO)
+
+   EPROD0066
+
+   Programação Linear
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   MAT0078 (PRO)
+
+   EPROD0067
+
+   Projeto de Fábrica
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0063(PRO)
+
+   EPROD0006
+
+   Logística e Cadeia de Suprimentos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0068
+
+   Laboratório de Otimização (*)
+
+   Disciplina
+
+   02
+
+   30
+
+   -
+
+   30
+
+   COMP0334 (PRO); EPROD0066(PRO)
+
+   EPROD0069
+
+   Planejamento e Controle da Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0063(PRO); EPROD0064(PRO)
+
+   EPROD0070
+
+   Otimização Estocástica
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   ESTAT0011(PRO); EPROD0066(PRO)
+
+   EPROD0071
+
+   Laboratório de Logística (*)
+
+   Disciplina
+
+   02
+
+   30
+
+   -
+
+   30
+
+   EPROD0006 (PRO)
+
+   EPROD0036
+
+   Gestão de Projetos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0072
+
+   Gestão da Qualidade
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0023
+
+   Ergonomia
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0063(PRO)
+
+   EPROD0073
+
+   Gestão de Custos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   CONTA0028(PRO); EPROD0063(PRO)
+
+   EPROD0074
+
+   Laboratório de Simulação de Sistemas Produtivos (*)
+
+   Disciplina
+
+   02
+
+   30
+
+   15
+
+   15
+
+   ESTAT0011 (PRO); EPROD0064(PRO)
+
+   EPROD0075
+
+   Sistema de Gestão dos Recursos Naturais
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   1200 horas (PRO)
+
+   EPROD0076
+
+   Planejamento e Organização Industrial
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   Código
+
+   Componente Curricular
+
+   Tipo
+
+   CR
+
+   CH
+
+   Total
+
+   CH
+
+   Teórica
+
+   CH
+
+   Prática
+
+   Pré-Requisito
+
+   EPROD0077
+
+   Análise de Investimentos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0024
+
+   Laboratório de Ergonomia (*)
+
+   Disciplina
+
+   02
+
+   30
+
+   -
+
+   30
+
+   EPROD0023 (PRO)
+
+   EPROD0078
+
+   Gestão da Manutenção e Confiabilidade
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   ESTAT0011 (PRO)
+
+   EPROD0079
+
+   Gestão da Informação e do Conhecimento
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0080
+
+   Produção Enxuta
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0069 (PRO)
+
+   EPROD0081
+
+   Controle Estatístico da Qualidade
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   ESTAT0011 (PRO)
+
+   EPROD0082
+
+   Empreendedorismo Inovador
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0076 (PRO)
+
+   EPROD0083
+
+   Engenharia Organizacional
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   2250 horas (PRO)
+
+   EPROD0084
+
+   Bioprodutos e Energias Renováveis
+
+   Disciplina
+
+   04
+
+   60
+
+   45
+
+   15
+
+   -
+
+   EPROD0085
+
+   Projeto de Pesquisa em Engenharia de produção (*)
+
+   Disciplina
+
+   02
+
+   30
+
+   15
+
+   15
+
+   EPROD0062(PRO); 2700 horas (PRO)
+
+   EPROD0086
+
+   Projeto de Produtos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0036 (PRO)
+
+   EPROD0087
+
+   Introdução e Laboratório de Propriedade Intelectual (*)
+
+   Disciplina
+
+   04
+
+   60
+
+   30
+
+   30
+
+   -
+
+   EPROD0088
+
+   Análise e Gerenciamento de Riscos e Acidentes
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0023 (PRO)
+
+   EPROD0089
+
+   Trabalho de Conclusão de Curso em Engenharia de Produção (*)
+
+   Atividade
+
+   -
+
+   90
+
+   -
+
+   90
+
+   EPROD0085 (PRO)
+
+   EPROD0054
+
+   Estágio Supervisionado em Engenharia de Produção (*)
+
+   Atividade
+
+   -
+
+   180
+
+   -
+
+   180
+
+   2700 horas (PRO)
+
+   EPROD0091
+
+   Princípios de Engenharia de Sistemas
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0092
+
+   Desenvolvimento de Novos Serviços
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0036 (PRO)
+
+   EPROD0093
+
+   Biomecânica Ocupacional
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0023 (PRO)
+
+   EPROD0094
+
+   Metodologias de Avaliação em Sistemas Produtivos
+
+   Disciplina
+
+   04
+
+   60
+
+   45
+
+   15
+
+   -
+
+   EPROD0095
+
+   Técnicas avançadas em Planejamento e Controle da Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0069 (PRO)
+
+   EPROD0096
+
+   Práticas de Automação Aplicadas à Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   15
+
+   45
+
+   ELET0085 (PRO)
+
+   EPROD0097
+
+   Logística Portuária e Comércio Exterior
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0098
+
+   Gestão da Inovação
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0035
+
+   Organização Industrial
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0003
+
+   Gestão de Operações
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0018
+
+   Engenharia da Qualidade I
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0090
+
+   Tópicos Especiais em Educação em Engenharia de Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0099
+
+   Tópicos Especiais em Engenharia do Produto
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0100
+
+   Tópicos Especiais em Engenharia Organizacional
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   Código
+
+   Componente Curricular
+
+   Tipo
+
+   CR
+
+   CH
+
+   Total
+
+   CH
+
+   Teórica
+
+   CH
+
+   Prática
+
+   Pré-Requisito
+
+   EPROD0101
+
+   Tópicos Especiais em Engenharia do Trabalho
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0102
+
+   Tópicos Especiais em Engenharia de Operações e Processos
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0103
+
+   Tópicos Especiais em Engenharia de Produção
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0104
+
+   Tópicos Especiais em Engenharia da Sustentabilidade
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0105
+
+   Tópicos Especiais em Engenharia Econômica
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   EPROD0106
+
+   Tópicos Especiais em Pesquisa Operacional
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0107
+
+   Tópicos Especiais em Engenharia da Qualidade
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   EPROD0108
+
+   Tópicos Especiais em Logística
+
+   Disciplina
+
+   04
+
+   60
+
+   60
+
+   -
+
+   -
+
+   Legenda:  PRO- Pré-Requisito Obrigatório.
+
+   (*) Componente curricular com caráter eminentemente prático.
+
+
+   RESOLUÇÃO Nº 61/2017/CONEPE
+
+   ANEXO II
+
+   EMENTÁRIO  DOS  COMPONENTES CURRICULARES DO DEPARTAMENTO DE ENGENHARIA
+   DE PRODUÇÃO - CURSO 113 - VESPERTINO
+
+   EPROD0061 - Introdução à Engenharia de Produção
+
+   Ementa: As grandes áreas de atuação da Engenharia de Produção. Ética e
+   responsabilidade social. A importância da diversidade racial, étnica e
+   de gênero na sociedade. Direitos humanos e educação ambiental.
+
+
+   EPROD0062 - Metodologia de Pesquisa Aplicada à Engenharia
+
+   Ementa:  Diretrizes para leitura, análise e interpretação de textos. A
+   pesquisa  e  suas  classificações.  Métodos  científicos. As etapas da
+   pesquisa.  Pesquisa  bibliográfica.  Pesquisa  científica: elaboração,
+   apresentação  e  publicação.  Diretrizes  para elaboração de trabalhos
+   científicos.   Redação,  estruturação  e  publicação  de  um  trabalho
+   científico.   Abordagem  prática:  busca  por  artigos  em  periódicos
+   nacionais  e  internacionais, e demais publicações; desenvolvimento de
+   artigo  científico;  conhecendo  bases de dados, indexadores, qualis e
+   fator  de  impacto  na  visão  de  uma  pesquisa e escrita científica;
+   diretrizes para a realização de um seminário.
+
+
+   EPROD0063 - Gestão de Operações Industriais
+
+   Ementa:  Sistemas  de produção: conceitos e tipologia. Planejamento da
+   capacidade  produtiva. Produtividade: conceitos e indicadores. Métodos
+   de  Previsão de demanda. Introdução a Arranjos Produtivos: Tipologia e
+   conceitos.  Métodos  de Localização. Introdução ao Sistema de Produção
+   Enxuta. Teoria das restrições.
+
+
+   EPROD0064 - Engenharia de Métodos
+
+   Ementa:  Engenharia  de Métodos, análise do processo produtivo (ASME).
+   Estudo  de  tempos  e  movimentos. Medida do trabalho, determinação do
+   tempo padrão, tolerâncias e ritmo. Interação homem-máquina. Amostragem
+   do trabalho.
+
+   EPROD0065 - Gestão de Operações em Serviços
+
+   Ementa:  Introdução  à  Gestão  de  Operações em Serviços. Evolução do
+   setor  de serviços na economia. Conceito de Serviço: características e
+   elementos.  Tipologias  de  serviços.  Processos  de  serviço.  Gestão
+   estratégica  de  serviços.  Definição  e  Avaliação  da  qualidade  em
+   serviços.  Gestão  dos custos e da eficiência em serviços. Organização
+   do  trabalho  e  estrutura do layout em serviços. Técnicas de projeto,
+   gestão de estoque em serviços, previsões de processo de serviços.
+
+   EPROD0066 - Programação Linear
+
+   Ementa:  Programação  linear.  Método  Simplex. Dualidade e análise de
+   sensibilidade.
+
+   EPROD0067 - Projeto de Fábrica
+
+   Ementa:  Introdução  às  Instalações  Industriais.  Tipos  básicos  de
+   Instalações  Industriais.  Técnicas  e  ferramentas  para  projeto  de
+   Instalações Industriais. Dimensionamento das instalações. Determinação
+   de  células  de  produção.  Introdução  a  Instalações  Industriais em
+   serviços (armazéns).
+
+
+   EPROD0006 - Logística e Cadeia de Suprimentos
+
+   Ementa:  Introdução à logística empresarial. Logística de suprimentos,
+   Logística  de Produção, Logística de Distribuição, Gestão de estoques.
+   Gestão  de  transportes,  armazenagem  e  movimentação  de  materiais.
+   Estratégias   de   localização   das   instalações.   Estratégias   de
+   abastecimento   e  distribuição.  Gestão  da  cadeia  de  suprimentos.
+   Indicadores  de  desempenho  logístico. Logística reversa. Sistemas de
+   informações logísticos.
+
+   EPROD0068 - Laboratório de Otimização
+
+   Ementa:   Problemas  em  redes.  Otimização  discreta.  Utilização  de
+   software de otimização.
+
+
+   EPROD0069 - Planejamento e Controle da Produção
+
+   Ementa:   Introdução   ao   Planejamento   e   Controle  da  Produção.
+   Determinação   da   Capacidade  Produtiva.  Planejamento  Agregado  da
+   Produção.  Planejamento  Mestre  da  Produção  (PMP). Planejamento das
+   Necessidades  dos Materiais. Gerenciamento de estoques. Programação da
+   produção. Emissão de ordens. Acompanhamento da produção.
+
+
+   EPROD0070 - Otimização Estocástica
+
+   Ementa:  Teoria  dos  Jogos.  Análise  de  Decisão. Cadeias de Markov.
+   Teoria das Filas.
+
+
+   EPROD0071 - Laboratório de Logística
+
+   Ementa:  Sistema de Informação aplicados à logística: aspectos gerais.
+   Modelagem  de  Processos através do BPM (Business Process Management).
+   ERP   (Enterprise   Resource   Planning).  B2B.  B2C.  EDI  (Eletronic
+   Interchance   Data  Interchange).  Código  de  Barras  e  RFID  (Radio
+   Frequency Identification). TMS (Transportation Management System). WMS
+   (Warehouse  Management  System).  Logware  (Problemas  de Localização,
+   Roteirização). Estratégias para a tomada de decisão Logística.
+
+   EPROD0036 - Gestão de Projetos
+
+   Ementa:  Elaboração,  planejamento,  execução  e controle de projetos.
+   Gestão   de   escopo,  tempo,  custos,  qualidade,  recursos  humanos,
+   informações  do  projeto,  riscos. Análise de viabilidade de projetos.
+   Fundamentos  de planejamento: planos, programas e projetos. Estruturas
+   organizacionais e nível de planejamento. Técnicas de acompanhamento de
+   projeto.
+
+   EPROD0072 - Gestão da Qualidade
+
+   Ementa: Qualidade: definição e conceitos. Evolução histórica da gestão
+   da  qualidade.  Ferramentas básicas da qualidade. Sistema de gestão da
+   qualidade  ISO 9000. Gestão da qualidade total. Programas relacionados
+   à qualidade. Qualidade em serviços.
+
+
+   EPROD0023 - Ergonomia
+
+   Ementa:  Fisiologia  do  trabalho.  Antropometria estática e dinâmica.
+   Dispositivos  de informação. Manejos e controles. Adaptação ergonômica
+   de   produtos.   Projeto   universal.   Acessibilidade.   Necessidades
+   especiais.  Métodos  e  técnicas  em  ergonomia. Modelagem ergonômica.
+   Projeto   do   posto  de  trabalho.  Análise  ergonômica  de  tarefas.
+   Legislação.  Normas  e  certificação em ergonomia. Bases biomecânicas.
+   Trabalho muscular estático e dinâmico. Aplicação de forças. Postura no
+   trabalho.  Levantamento  e  transporte  de cargas. LER/DORT. Ergonomia
+   cognitiva. Carga mental. Estresse.
+
+
+   EPROD0073 - Gestão de Custos
+
+   Ementa:  Melhoria  contínua  e  eliminação dos desperdícios. Conceitos
+   básicos    de    custos.    Princípios    de   custeio.   Análise   de
+   custo-volume-lucro.  Custo  padrão.  Método  dos  centros  de  custos.
+   Custeio  baseado  em atividades (ABC). Método da unidade de esforço de
+   produção (UEP).
+
+
+   EPROD0074 - Laboratório de Simulação de Sistemas Produtivos
+
+   Ementa:   Introdução.  Conceitos  fundamentais.  Áreas  de  aplicação.
+   Técnicas para desenvolvimento de ferramentas de modelagem e simulação.
+   Geração de números e variáveis aleatórios. Método Monte Carlo. Emprego
+   de  softwares.  Projeto  e  planejamento de experimentos de simulação.
+   Verificação e validação de modelos. Análise de dados e de resultados.
+
+
+   EPROD0075 - Sistema de Gestão dos Recursos Naturais
+
+   Ementa:  Noções gerais de Ecologia. Os recursos ambientais: ar, solo e
+   água.  Noções  de Legislação Ambiental: federal, estadual e municipal.
+   Resíduos  sólidos. Problemas causados pelo lixo. Agrotóxicos. Poluição
+   sonora. Noções de Tratamento de Efluentes. Gestão de recursos naturais
+   e   energéticos.  Produção  mais  limpa  e  ecoeficiência.  Gestão  de
+   efluentes  e  resíduos  industriais.  Sistemas  de  gestão ambiental e
+   certificação.
+
+   EPROD0076 - Planejamento e Organização Industrial
+
+   Ementa:  Estruturas  de Economia e Mercado. Estratégias empresariais e
+   de  produção  (estratégicos,  custos,  diferenciação, inovação, etc.).
+   Metodologias  e ferramentas para formulação de estratégias. Formulação
+   e análise de indicadores de desempenho empresarial.
+
+
+   EPROD0077 - Análise de Investimentos
+
+   Ementa:  Matemática  Financeira.  Avaliação  Econômica e Financeira de
+   Projetos.  Métodos  de Análise de Investimentos. Tomada de Decisão sob
+   Risco. Noções de Finanças Corporativas.
+
+
+   EPROD0024 - Laboratório de Ergonomia
+
+   Ementa:  Experiências  de  laboratório  e/ou simulações computacionais
+   relacionadas   com   medições   físicas   de  avaliação  de  adequação
+   biomecânica  do trabalho, projeto do trabalho e de conforto ambiental,
+   estudo de métodos e utilização de equipamentos de medição.
+
+
+   EPROD0078 - Gestão da Manutenção e Confiabilidade
+
+   Ementa:   Manutenção   corretiva.  Manutenção  preventiva.  Manutenção
+   preditiva.  Conceitos  de  função e falha. Manutenção Produtiva Total.
+   Organização  da  Manutenção.  Planejamento  e  Controle de Manutenção.
+   Ferramentas  de análise de falhas (FMEA e FTA). Manutenção Centrada em
+   Confiabilidade. Confiabilidade. Mantenabilidade. Disponibilidade. Taxa
+   de  falha. Tempo médio até falha. Curva da banheira. Confiabilidade de
+   sistemas. Testes de confiabilidade censurados e acelerados.
+
+
+   EPROD0079 - Gestão da Informação e do Conhecimento
+
+   Ementa:  Competitividade.  Empresas  Ágeis.  Gerenciamento  na  Era da
+   Informação. Gestão da Informação e o Suporte à Decisão. Tecnologias da
+   Informação  (TI)  e  Business  Intelligence. Tecnologias da Informação
+   (TI)  e  Gestão  do Conhecimento (GC). Implantação de Projetos de TI e
+   GC. Planejamento Estratégico de TI.
+
+
+   EPROD0080 - Produção Enxuta
+
+   Ementa:  Surgimento  da  Manufatura  Enxuta.  O Mapeamento do Fluxo de
+   Valor.  O  conceito  de desperdício: tipos de desperdícios. Pilares de
+   sustentação  da  Produção  Enxuta.  Just in Time. Fluxo Contínuo. Takt
+   Time.  Produção  Puxada.  O  conceito Jidoka. Separação homem-máquina.
+   Pokayoke.  Controle  Visual. Heijunka. Operações padronizadas. Kaizen.
+   Estabilidade.  5s.  Manutenção  Produtiva  Total. Indicador OEE. Troca
+   Rápida de Ferramentas. Balanceamento de linhas de produção.
+
+
+   EPROD0081 - Controle Estatístico da Qualidade
+
+   Ementa:   Ferramentas  para  Controle  de  Qualidade.  Fundamentos  do
+   controle  estatístico de processos. Gráficos de controle por variável.
+   Gráficos  de  controle  por  atributo.  Gráfico  de Controle das Somas
+   Acumuladas  (CUSUM  -  Cumulative  Sum).  Gráfico de Controle da Média
+   Móvel Ponderada Exponencialmente (EWMA - Exponentially Weighted Moving
+   Average).  Capacidade  do  processo. Avaliação de sistemas de medição.
+   Inspeção de qualidade.
+
+
+   EPROD0082 - Empreendedorismo Inovador
+
+   Ementa:    O   fenômeno   do   empreendedorismo.   Características   e
+   comportamento  do  empreendedor. Fontes de informação tecnológica e de
+   mercado   para   as   MPEs.   Estudos  das  experiências  nacionais  e
+   internacionais  de  incubação  de  empresas  de  base tecnológica e de
+   parques  tecnológicos.  Sistemas nacional, regional e local de apoio e
+   financiamento  das  inovações  em Micros e Pequenas Empresas (MPEs). A
+   lei de inovação e os incentivos aos empreendimentos. Ambiente inovador
+   local.
+
+
+   EPROD0083 - Engenharia Organizacional
+
+   Ementa:   Bases   Históricas  e  Conceituais  de  Gestão  de  Pessoas.
+   Planejamento Estratégico de Gestão de Pessoas: desafios de um ambiente
+   dinâmico  e  competitivo.  Atuação  do Engenheiro de Produção enquanto
+   gestor de Pessoas. Gestão de Carreira: planejamento e desenvolvimento.
+   Práticas  de  recrutamento e seleção de pessoas. Recompensa, Programas
+   de  Incentivo  e  Benefícios.  Avaliação de Desempenho Organizacional:
+   conceitos, objetivos e metodologias de avaliação.
+
+
+   EPROD0084 - Bioprodutos e Energias Renováveis
+
+   Ementa:  Etapas  necessárias para desenvolvimento de um bioproduto bem
+   como   de   aspectos   relacionados   à  engenharia  de  bioprocessos.
+   Biorreatores,  etapas e conceitos de processos fermentativos. Produtos
+   de  origem  microbiana.  Generalidades  em processos e produtos de uma
+   biorrefinaria.  Energia  e  meio  ambiente  dentro  de  um conceito de
+   sustentabilidade.  Fontes  convencionais  e  alternativas  de energia.
+   Especificidades   relacionadas   às   energias  renováveis.  Abordagem
+   prática:  busca  por  artigos  científicos  e noticiários, nacionais e
+   internacionais,  com  foco  em  seminários,  referentes às tecnologias
+   relacionadas a bioprodutos, energias renováveis e sustentabilidade.
+
+
+   EPROD0085 - Projeto de Pesquisa em Engenharia de Produção
+
+   Ementa:    Planejamento   de   pesquisa.   Métodos   quantitativos   e
+   qualitativos.  Estrutura do projeto de pesquisa. Consulta à literatura
+   atualizada   da   pesquisa  em  Engenharia  de  Produção:  análise  de
+   abordagens   e  métodos  científicos  empregados.  Estudo  crítico  da
+   pesquisa: coerência do objetivo e metodologia; análise e discussão dos
+   dados; relação com resultados da literatura. Normatização técnica para
+   elaboração  de  trabalhos acadêmicos. Escolha e delimitação do tema de
+   pesquisa.  Elaboração  individual de um projeto de pesquisa na área de
+   Engenharia de Produção sob orientação ou coorientação de um docente do
+   Departamento  de Engenharia de Produção. Diretrizes para elaboração de
+   uma monografia.
+
+
+   EPROD0086 - Projeto de Produtos
+
+   Ementa:  O  Modelo de Referência para o Processo de Desenvolvimento de
+   Produtos:   suas   fases   e   atividades.   Conceitos,   ferramentas,
+   metodologias  e  fluxos  de  informações  empregados  na  tradução dos
+   requisitos dos clientes para melhoria das especificações de produtos e
+   seus  processos  de  produção.  Desenvolvendo  um  novo  produto:  uma
+   abordagem prática de desenvolvimento.
+
+
+   EPROD0087 - Introdução e Laboratório de Propriedade Intelectual
+
+   Ementa:  Introdução  ao  conceito  de  Propriedade Intelectual. Outros
+   instrumentos   de   proteção.  Estratégias  de  proteção  intelectual:
+   direitos  autorais,  direitos conexos, programa de computador, marcas,
+   indicações  geográficas,  proteção  de  novas  variedades  de plantas,
+   desenho  industrial e patentes. Tratados sobre Sistemas Internacionais
+   de  Registro. Concorrência desleal. Contratos de Tecnologia. Abordagem
+   prática:  busca,  recuperação e avaliação de documentos de Propriedade
+   Industrial,  principais  bancos  de  dados  de  patentes  (nacional  e
+   internacional),  estratégias  de  busca  de  anterioridade, redação de
+   patentes e prospecção tecnológica.
+
+
+   EPROD0088 - Análise e Gerenciamento de Riscos e Acidentes
+
+   Ementa:  Sistemas de gestão em higiene e segurança do trabalho. Normas
+   e certificação em HST. Estudo do ambiente de trabalho. Riscos físicos.
+   Riscos  químicos.  Riscos  biológicos.  Riscos  mecânicos.  Gestão  de
+   programas  em  HST.  Trabalho  noturno. Gestão de pessoas. Serviços de
+   saúde  ocupacional.  Proteção contra incêndios. Técnicas de análise de
+   riscos.
+
+
+   EPROD0089 - Trabalho de Conclusão de Curso em Engenharia de Produção
+
+   Ementa:  Desenvolvimento  individual do Trabalho de Conclusão de Curso
+   conforme  projeto  de  pesquisa  elaborado  na  disciplina “Projeto de
+   Pesquisa  em Engenharia de Produção” sob orientação ou coorientação de
+   um docente do Departamento de Engenharia de Produção. Execução prática
+   de  pesquisa  e  redação  do  relatório  de  pesquisa,  no  formato de
+   monografia  ou  artigo.  Defesa  pública  do  Trabalho de Conclusão de
+   Curso.
+
+
+   EPROD0054 - Estágio Supervisionado em Engenharia de Produção
+
+   Ementa: Estágio supervisionado por um docente da área de Engenharia de
+   Produção.
+
+   EPROD0091 - Princípios de Engenharia de Sistemas
+
+   Ementa: Conceitos e definições de sistemas. Classificação de sistemas.
+   Pensamento   sistêmico.   Conceitos  e  definições  de  engenharia  de
+   sistemas. Modelos de processos de engenharia de sistemas.
+
+
+   EPROD0092 - Desenvolvimento de Novos Serviços
+
+   Ementa:   Importância,   definições,   conceitos,   características  e
+   tipologia  dos  serviços.  O  conceito  de  pacote  de  serviços e sua
+   agregação  de  valor  pelo consumidor. Os Modelos de Referência para o
+   processo  de  desenvolvimento de serviços e suas etapas. Desenvolvendo
+   um novo conceito de serviço: uma abordagem prática de desenvolvimento.
+
+
+   EPROD0093 - Biomecânica Ocupacional
+
+   Ementa:     Materiais     e     suas    propriedades.    Biomateriais,
+   biocompatibilidade,   biodesempenho,   princípios   e   aplicações  de
+   Biomecânica. Análise de fenômenos biofísicos. Legislação relacionada à
+   saúde, classe dos produtos médicos. Ciclo de vida de Produto: aspectos
+   de segurança, eficácia, descarte do produto. Gerenciamento de risco de
+   produtos da saúde. Medidas de controle de risco: aspectos tecnológicos
+   e   de   saúde   da   série   de   normas   IEC   60601.  Equipamentos
+   médico-hospitalares.
+
+
+   EPROD0094 - Metodologias de Avaliação em Sistemas Produtivos
+
+   Ementa:  Fundamentações científicas. Avaliação em sistemas produtivos.
+   Ambientes  para  avaliação  do  desempenho  com  base  em indicadores.
+   Ferramentas  e  Modelos  de  Avaliação.  Avaliação  do  desempenho  em
+   processos produtivos e serviços.
+
+
+   EPROD0095 - Técnicas Avançadas em Planejamento e Controle da Produção
+
+   Ementa:   Conceitos   avançados   no   Plano   agregado  de  Produção.
+   Desagregação do plano agregado de produção. Conceitos avançados em MRP
+   II.  Conceitos  especiais  em  gerenciamento  de estoques. Sistemas de
+   programação e controle da produção: JIT, TOC.
+
+   EPROD0096 - Práticas de Automação Aplicadas à Produção
+
+   Ementa:   Instrumentação   Industrial:   Componentes   e   Simbologia.
+   Princípios  das tecnologias pneumática e eletropneumática. Práticas de
+   Programação  de  Controladores Lógico Programáveis. Interfaceamento de
+   CLP’s  com  sensores  e atuadores. Práticas de Processos Automatizados
+   Aplicadas à Produção.
+
+
+   EPROD0097 - Logística Portuária e Comércio Exterior
+
+   Ementa:   Fundamentos   da   logística   e   cadeia   de  suprimentos.
+   Infraestrutura   e   tecnologia   portuária.   Gestão   de  estoque  e
+   armazenagem.   Sistemas   de   transporte  e  movimentação  de  cargas
+   portuárias. Operações portuárias: embarque e desembarque. Processos de
+   negócios    portuários.   Comércio   internacional   e   procedimentos
+   aduaneiros.  Custos e tarifas portuárias na comercialização de fretes.
+   Qualidade:   métodos   quantitativos   e   qualitativos.  Sistemas  de
+   informações portuárias - TI. Segurança do trabalho e saúde no trabalho
+   portuário.
+
+
+   EPROD0098 - Gestão da Inovação
+
+   Ementa:  Inovação:  Definição  e  Perspectivas.  Processo de Inovação:
+   Conceito,  Fases  e  Gerenciamento  - Criação, Adoção, Implementação e
+   Disseminação  da  Inovação.  Formulação  de  Estratégias.  Inovação em
+   Serviços, Geração e Avaliação de Ideias.
+
+
+   EPROD0035 - Organização Industrial
+
+   Ementa: Estruturas de mercado. Estratégias empresariais e de produção.
+   Métodos  de  formulação  de estratégias. Desdobramentos de diretrizes.
+   Objetivo   e   avaliação  de  desempenho.  Gestão  de  inovação  e  da
+   tecnologia.  Empreendedorismo  inovador. Relação universidade-empresa.
+   Propriedade Intelectual. Redes de empresas.
+
+
+   EPROD0003 - Gestão de Operações
+
+   Ementa:   Sistemas  de  produção:  conceito,  tipos.  Planejamento  da
+   capacidade.  Previsão de demanda. Layout. Sistemas de produção enxuta.
+   Teoria das restrições.
+
+
+   EPROD0018 - Engenharia da Qualidade I
+
+   Ementa:   Histórico   da   qualidade.  Controle  da  qualidade  total.
+   Gerenciamento  da  qualidade total. Ferramentas da qualidade. Sistemas
+   normalizados de qualidade. Auditoria.
+
+
+   EPROD0090 - Tópicos Especiais em Educação em Engenharia de Produção
+
+   Ementa: a definir.
+
+
+   EPROD0099 - Tópicos Especiais em Engenharia do Produto
+
+   Ementa: a definir.
+
+   EPROD0100 - Tópicos Especiais em Engenharia Organizacional
+
+   Ementa: a definir.
+
+
+   EPROD0101 - Tópicos Especiais em Engenharia do Trabalho
+
+   Ementa: a definir.
+
+   EPROD0102 - Tópicos Especiais em Engenharia de Operações e Processos
+
+   Ementa: a definir.
+
+
+   EPROD0103 - Tópicos Especiais em Engenharia de Produção
+
+   Ementa: a definir.
+
+   EPROD0104 - Tópicos Especiais em Engenharia da Sustentabilidade
+
+   Ementa: a definir.
+
+   EPROD0105 - Tópicos Especiais em Engenharia Econômica
+
+   Ementa: a definir.
+
+
+   EPROD0106 - Tópicos Especiais em Pesquisa Operacional
+
+   Ementa: a definir.
+
+
+   EPROD0107 - Tópicos Especiais em Engenharia da Qualidade
+
+   Ementa: a definir.
+
+
+   EPROD0108 - Tópicos Especiais em Logística
+
+   Ementa: a definir.
+
+   ________________
+
+
+   RESOLUÇÃO Nº 61/2017/CONEPE
+
+ANEXO III
+
+   TABELA DE EQUIVALÊNCIA GERAL DO DEPARTAMENTO DE ENGENHARIA
+
+   DE PRODUÇÃO - CURSO 113 - VESPERTINO
+
+
+   A   Tabela   abaixo   apresenta  os  componentes  ofertados  a  outros
+   departamentos   da  UFS  e  suas  respectivas  equivalências  no  novo
+   ementário do curso de Engenharia de Produção.
+
+   Currículo Proposto
+
+   Currículo Atual
+
+   Código
+
+   Componentes curriculares
+
+   Código
+
+   Componentes curriculares
+
+   EPROD0076
+
+   Planejamento e Organização Industrial
+
+   EPROD0035
+
+   Organização Industrial
+
+   EPROD0063
+
+   Gestão de Operações Industriais
+
+   EPROD0003
+
+   Gestão de Operações
+
+   EPROD0072
+
+   Gestão da Qualidade
+
+   EPROD0018
+
+   Engenharia da Qualidade I
+
+   Sala das Sessões, 04 de dezembro de 2017
