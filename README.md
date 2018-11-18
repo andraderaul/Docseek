@@ -1,6 +1,10 @@
 # Projeto Docseek
 * Disciplina: Estrutura de Dados II - UFS 2018.1
+<<<<<<< HEAD
 * Projeto:  O Docseek é um buscador de documentos.
+=======
+* Projeto: O Docseek é um buscador de documentos.
+>>>>>>> bc2e4d73e21fcd00c51017e91092eef79ecb2cfd
 * Linguagem de programação utilizada:
   * Java
 * Framework utilizado:
